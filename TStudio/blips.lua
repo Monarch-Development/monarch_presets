@@ -1,8 +1,8 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
 ---@description TStudio Blips Presets [https://turbosaif.tebex.io/]
 
-["alamo-island"] = {
-    label = "Alamo Island",
+['alamo-island'] = {
+    label = 'Alamo Island',
     coords = vec3(228.17, 4006.36, 50.15),
     display = 2,
     sprite = 836,
@@ -10,8 +10,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["al-dente-restaurant"] = {
-    label = "Al Dente Restaurant",
+['al-dente-restaurant'] = {
+    label = 'Al Dente Restaurant',
     coords = vec3(-1183.66, -1415.73, 4.45),
     display = 2,
     sprite = 889,
@@ -19,8 +19,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["beach-party-pier"] = {
-    label = "Beach Party Pier",
+['beach-party-pier'] = {
+    label = 'Beach Party Pier',
     coords = vec3(-1492.12, -1481.77, 4.00),
     display = 2,
     sprite = 836,
@@ -28,8 +28,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["bennys-docks"] = {
-    label = "Benny's Docks",
+['bennys-docks'] = {
+    label = 'Benny's Docks',
     coords = vec3(159.55, -3033.19, 6.96),
     display = 2,
     sprite = 446,
@@ -37,8 +37,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["bennys-motorworks"] = {
-    label = "Benny's Motorworks",
+['bennys-motorworks'] = {
+    label = 'Benny's Motorworks',
     coords = vec3(-910.53, -2043.06, 9.41),
     display = 2,
     sprite = 446,
@@ -46,8 +46,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["bennys-paleto"] = {
-    label = "Benny's Paleto",
+['bennys-paleto'] = {
+    label = 'Benny's Paleto',
     coords = vec3(150.89, 6402.02, 31.24),
     display = 2,
     sprite = 446,
@@ -55,8 +55,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["bennys-racetrack"] = {
-    label = "Benny's Racetrack",
+['bennys-racetrack'] = {
+    label = 'Benny's Racetrack',
     coords = vec3(-785.55, -2080.98, 8.91),
     display = 2,
     sprite = 309,
@@ -64,8 +64,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["boxring-show"] = {
-    label = "Boxring Show",
+['boxring-show'] = {
+    label = 'Boxring Show',
     coords = vec3(-1571.80, -1019.97, 13.87),
     display = 2,
     sprite = 491,
@@ -73,8 +73,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["burgershot"] = {
-    label = "Burgershot",
+['burgershot'] = {
+    label = 'Burgershot',
     coords = vec3(-1181.71, -883.10, 13.80),
     display = 2,
     sprite = 106,
@@ -82,8 +82,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["cali-estate"] = {
-    label = "Cali Estate",
+['cali-estate'] = {
+    label = 'Cali Estate',
     coords = vec3(808.04, 1275.56, 360.49),
     display = 2,
     sprite = 40,
@@ -91,8 +91,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["canyon-bridge"] = {
-    label = "Canyon Bridge",
+['canyon-bridge'] = {
+    label = 'Canyon Bridge',
     coords = vec3(-1894.22, 4607.99, 57.05),
     display = 2,
     sprite = 770,
@@ -100,8 +100,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["car-rental-office"] = {
-    label = "Car Rental Office",
+['car-rental-office'] = {
+    label = 'Car Rental Office',
     coords = vec3(286.57, -1141.43, 29.44),
     display = 2,
     sprite = 782,
@@ -109,8 +109,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["cayo-perico-bridge"] = {
-    label = "Cayo Perico Bridge",
+['cayo-perico-bridge'] = {
+    label = 'Cayo Perico Bridge',
     coords = vec3(1442.09, -2590.85, 48.31),
     display = 2,
     sprite = 770,
@@ -118,8 +118,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["davis-gang-hood"] = {
-    label = "Davis Gang Hood",
+['davis-gang-hood'] = {
+    label = 'Davis Gang Hood',
     coords = vec3(504.66, -1760.17, 28.51),
     display = 2,
     sprite = 40,
@@ -127,8 +127,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["fleeca"] = {
-    label = "Fleeca",
+['fleeca'] = {
+    label = 'Fleeca',
     points = {
         vec3(151.70, -1035.40, 29.34),
         vec3(-2969.57, 482.96, 15.47),
@@ -143,8 +143,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["hill-mansion"] = {
-    label = "Hill Mansion",
+['hill-mansion'] = {
+    label = 'Hill Mansion',
     coords = vec3(-2554.28, 1911.97, 168.95),
     display = 2,
     sprite = 40,
@@ -152,8 +152,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["impound"] = {
-    label = "Impound",
+['impound'] = {
+    label = 'Impound',
     coords = vec3(451.44, -1139.55, 29.42),
     display = 2,
     sprite = 477,
@@ -161,8 +161,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["jurassic-jackpot"] = {
-    label = "Jurassic Jackpot",
+['jurassic-jackpot'] = {
+    label = 'Jurassic Jackpot',
     coords = vec3(-271.22, -898.89, 32.20),
     display = 2,
     sprite = 680,
@@ -170,8 +170,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["kebab-king-diner"] = {
-    label = "Kebab King Diner",
+['kebab-king-diner'] = {
+    label = 'Kebab King Diner',
     coords = vec3(247.86, -826.85, 29.85),
     display = 2,
     sprite = 439,
@@ -179,8 +179,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["laundromat"] = {
-    label = "Laundromat",
+['laundromat'] = {
+    label = 'Laundromat',
     points = {
         vec3(53.64, -1614.20, 29.42),
         vec3(-3051.87, 634.38, 7.42),
@@ -192,8 +192,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["leapfrog-cafe"] = {
-    label = "Leapfrog Café",
+['leapfrog-cafe'] = {
+    label = 'Leapfrog Café',
     coords = vec3(1126.20, -644.64, 56.75),
     display = 2,
     sprite = 93,
@@ -201,8 +201,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["legion-square-garage"] = {
-    label = "Legion Square Garage",
+['legion-square-garage'] = {
+    label = 'Legion Square Garage',
     coords = vec3(218.07, -809.37, 30.70),
     display = 2,
     sprite = 357,
@@ -210,8 +210,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["legion-square-park"] = {
-    label = "Legion Square Park",
+['legion-square-park'] = {
+    label = 'Legion Square Park',
     coords = vec3(205.12, -919.96, 30.91),
     display = 2,
     sprite = 685,
@@ -219,8 +219,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["lsia"] = {
-    label = "LS International Airport",
+['lsia'] = {
+    label = 'LS International Airport',
     coords = vec3(-1042.53, -2745.48, 21.36),
     display = 2,
     sprite = 307,
@@ -228,8 +228,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["lsia-skatepark"] = {
-    label = "LSIA Skatepark",
+['lsia-skatepark'] = {
+    label = 'LSIA Skatepark',
     coords = vec3(-644.43, -2334.59, 13.83),
     display = 2,
     sprite = 685,
@@ -237,8 +237,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["lsi-square"] = {
-    label = "LSI Square",
+['lsi-square'] = {
+    label = 'LSI Square',
     coords = vec3(-802.49, -2356.33, 14.63),
     display = 2,
     sprite = 480,
@@ -246,8 +246,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["medical-center-vespucci"] = {
-    label = "Medical Center Vespucci",
+['medical-center-vespucci'] = {
+    label = 'Medical Center Vespucci',
     coords = vec3(-844.83, -1206.21, 6.33),
     display = 2,
     sprite = 61,
@@ -255,8 +255,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["opium-nights-hotel"] = {
-    label = "Opium Nights Hotel",
+['opium-nights-hotel'] = {
+    label = 'Opium Nights Hotel',
     coords = vec3(-753.57, -2292.56, 13.00),
     display = 2,
     sprite = 475,
@@ -264,8 +264,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["paleto-cardealer-v2"] = {
-    label = "Paleto Cardealer V2",
+['paleto-cardealer-v2'] = {
+    label = 'Paleto Cardealer V2',
     coords = vec3(-249.83, 6210.73, 31.50),
     display = 2,
     sprite = 595,
@@ -273,8 +273,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["pdm-vespucci"] = {
-    label = "PDM - Vespucci",
+['pdm-vespucci'] = {
+    label = 'PDM - Vespucci',
     coords = vec3(-1029.57, -1524.59, 5.37),
     display = 2,
     sprite = 524,
@@ -282,8 +282,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["pier76-car-club"] = {
-    label = "Pier 76 Car Club",
+['pier76-car-club'] = {
+    label = 'Pier 76 Car Club',
     points = {
         vec3(847.88, -893.41, 25.25),
         vec3(527.91, -3052.64, 6.07),
@@ -294,8 +294,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["playboy-mansion"] = {
-    label = "Playboy Mansion",
+['playboy-mansion'] = {
+    label = 'Playboy Mansion',
     coords = vec3(-1470.33, 62.09, 53.04),
     display = 2,
     sprite = 40,
@@ -303,8 +303,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["pvp-arena"] = {
-    label = "PVP Arena",
+['pvp-arena'] = {
+    label = 'PVP Arena',
     points = {
         vec3(-3671.47, -3768.32, 358.56),
         vec3(-3674.99, -3661.18, 369.11),
@@ -317,8 +317,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["reds-tunershop"] = {
-    label = "Red's Tunershop",
+['reds-tunershop'] = {
+    label = 'Red's Tunershop',
     coords = vec3(-692.00, -2462.21, 13.83),
     display = 2,
     sprite = 446,
@@ -326,8 +326,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["rockford-church"] = {
-    label = "Rockford Church",
+['rockford-church'] = {
+    label = 'Rockford Church',
     coords = vec3(-763.45, -28.58, 39.51),
     display = 2,
     sprite = 489,
@@ -335,8 +335,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["roggers-hood"] = {
-    label = "Roggers Hood",
+['roggers-hood'] = {
+    label = 'Roggers Hood',
     coords = vec3(-655.86, -1649.19, 25.42),
     display = 2,
     sprite = 40,
@@ -344,8 +344,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["smokeys-weed-shop"] = {
-    label = "Smokey's Weed Shop",
+['smokeys-weed-shop'] = {
+    label = 'Smokey's Weed Shop',
     coords = vec3(1145.11, -986.54, 45.91),
     display = 2,
     sprite = 469,
@@ -353,8 +353,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["south-davis-hood"] = {
-    label = "South Davis Hood",
+['south-davis-hood'] = {
+    label = 'South Davis Hood',
     coords = vec3(160.57, -1737.78, 29.27),
     display = 2,
     sprite = 40,
@@ -362,8 +362,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["tattoo-studios"] = {
-    label = "Tattoo Studios",
+['tattoo-studios'] = {
+    label = 'Tattoo Studios',
     coords = vec3(320.42, 176.33, 103.65),
     display = 2,
     sprite = 75,
@@ -371,8 +371,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["taxi-downtown-cab"] = {
-    label = "Taxi Downtown Cab & Co.",
+['taxi-downtown-cab'] = {
+    label = 'Taxi Downtown Cab & Co.',
     points = {
         vec3(-2028.27, -460.22, 11.51),
         vec3(1773.64, 3585.79, 36.66),
@@ -384,8 +384,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["tropical-heights"] = {
-    label = "Tropical Heights",
+['tropical-heights'] = {
+    label = 'Tropical Heights',
     coords = vec3(285.26, -919.77, 29.15),
     display = 2,
     sprite = 93,
@@ -393,8 +393,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["vespucci-gang-hood"] = {
-    label = "Vespucci Gang Hood",
+['vespucci-gang-hood'] = {
+    label = 'Vespucci Gang Hood',
     coords = vec3(-1295.13, -1273.62, 4.12),
     display = 2,
     sprite = 40,
@@ -402,8 +402,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["vhotel-estate"] = {
-    label = "VHotel Estate",
+['vhotel-estate'] = {
+    label = 'VHotel Estate',
     coords = vec3(-1329.48, -1095.68, 6.83),
     display = 2,
     sprite = 113,
@@ -411,8 +411,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["vinewood-lake-villa"] = {
-    label = "Vinewood Lake Villa",
+['vinewood-lake-villa'] = {
+    label = 'Vinewood Lake Villa',
     coords = vec3(-121.38, 901.52, 235.75),
     display = 2,
     sprite = 40,
@@ -420,8 +420,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["vineyard-mansion"] = {
-    label = "Vineyard Mansion",
+['vineyard-mansion'] = {
+    label = 'Vineyard Mansion',
     coords = vec3(-1868.58, 2035.69, 138.62),
     display = 2,
     sprite = 40,
@@ -429,8 +429,8 @@
     alpha = 255,
     scale = 0.8,
 },
-["yakuza-mansion"] = {
-    label = "Yakuza Mansion",
+['yakuza-mansion'] = {
+    label = 'Yakuza Mansion',
     coords = vec3(-1469.50, 883.56, 183.10),
     display = 2,
     sprite = 40,
