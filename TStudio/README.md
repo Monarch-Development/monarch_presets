@@ -2,18 +2,18 @@
 
 Store Link: https://shop.tstudio3d.com/
 
-[v] -> Done (Fully Supported)
-[*] -> Incomplete (Missing Something)
-[x] -> Not Done (Incompatible)
+- ✅ -> Done (Fully Supported)
+- ☑️ -> Incomplete (Missing Something)
+- ❌ -> Not Done (Incompatible)
 
 | Product                           | Blips | Elevators | IPLs  | Sit Anywhere  |
 |-----------------------------------|-------|-----------|-------|---------------|
-| Alamo Island                      | [v]   |           |       |               |
-| Al Dente Restaurant & Compound    | [v]   |           |       |               |
-| Ammu Nation                       | [x]   |           |       |               |
-| Beach Party Pier                  | [v]   |           |       |               |
-| Bennys Docks                      | [v]   |           |       |               |
-| Bennys Motorworks                 | [v]   |           |       |               |
+| Alamo Island                      | ✅    |           |       |               |
+| Al Dente Restaurant & Compound    | ✅    |           |       |               |
+| Ammu Nation                       | ❌    |           |       |               |
+| Beach Party Pier                  | ✅    |           |       |               |
+| Bennys Docks                      | ✅    |           |       |               |
+| Bennys Motorworks                 | ✅    |           |       |               |
 | Bennys Racetrack                  |       |           |       |               |
 | Boxring Show                      |       |           |       |               |
 | Burgershot                        |       |           |       |               |
