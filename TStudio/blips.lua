@@ -38,7 +38,7 @@
     scale = 0.8,
 },
 ['bennys-motorworks'] = {
-    label = 'Benny's Motorworks',
+    label = 'Bennys Motorworks',
     coords = vec3(-910.53, -2043.06, 9.41),
     display = 2,
     sprite = 446,
@@ -47,7 +47,7 @@
     scale = 0.8,
 },
 ['bennys-paleto'] = {
-    label = 'Benny's Paleto',
+    label = 'Bennys Paleto',
     coords = vec3(150.89, 6402.02, 31.24),
     display = 2,
     sprite = 446,
@@ -56,7 +56,7 @@
     scale = 0.8,
 },
 ['bennys-racetrack'] = {
-    label = 'Benny's Racetrack',
+    label = 'Bennys Racetrack',
     coords = vec3(-785.55, -2080.98, 8.91),
     display = 2,
     sprite = 309,
@@ -318,7 +318,7 @@
     scale = 0.8,
 },
 ['reds-tunershop'] = {
-    label = 'Red's Tunershop',
+    label = 'Reds Tunershop',
     coords = vec3(-692.00, -2462.21, 13.83),
     display = 2,
     sprite = 446,
@@ -345,7 +345,7 @@
     scale = 0.8,
 },
 ['smokeys-weed-shop'] = {
-    label = 'Smokey's Weed Shop',
+    label = 'Smokeys Weed Shop',
     coords = vec3(1145.11, -986.54, 45.91),
     display = 2,
     sprite = 469,
