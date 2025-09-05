@@ -42,7 +42,7 @@ Store Link: https://shop.tstudio3d.com/
 | PDM - Vespucci                    | ✅    |           |       |               |
 | Pearls Resort                     | ❌    |           |       |               |
 | Pier 76 Car Club                  | ✅    |           |       |               |
-| Pillbox Medical Center            | ❌    |           |       |               |
+| Pillbox Medical Center            | ✅    |           |       |               |
 | Playboy Mansion                   | ✅    |           |       |               |
 | PVP Arena                         | ✅    |           |       |               |
 | Red's Tunershop                   | ✅    |           |       |               |

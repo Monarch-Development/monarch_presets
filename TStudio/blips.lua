@@ -294,6 +294,13 @@
     alpha = 255,
     scale = 0.8,
 },
+['pillbox-medical-center'] = {
+    label = 'Pillbox Medical Center',
+    coords = vec3(293.84, -582.71, 44.00),
+    sprite = 61,
+    color = 11,
+    scale = 0.8,
+},
 ['playboy-mansion'] = {
     label = 'Playboy Mansion',
     coords = vec3(-1470.33, 62.09, 53.04),
