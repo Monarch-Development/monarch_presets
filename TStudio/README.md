@@ -9,9 +9,9 @@ Store Link: https://shop.tstudio3d.com/
 
 | Product                           | Blips | Elevators | IPLs  | Sit Anywhere  |
 |-----------------------------------|-------|-----------|-------|---------------|
-| Alamo Island                      | ✅    |           |       |               |
-| Al Dente Restaurant & Compound    | ✅    |           |       |               |
-| Ammu Nation                       | ❌    |           |       |               |
+| Alamo Island                      | ✅    | ❓       |       |               |
+| Al Dente Restaurant & Compound    | ✅    | ✅       |       |               |
+| Ammu Nation                       | ❌    | ❓       |       |               |
 | Beach Party Pier                  | ✅    |           |       |               |
 | Bennys Docks                      | ✅    |           |       |               |
 | Bennys Motorworks                 | ✅    |           |       |               |
@@ -26,7 +26,7 @@ Store Link: https://shop.tstudio3d.com/
 | Fleeca Bank                       | ✅    |           |       |               |
 | Hill Mansion                      | ✅    |           |       |               |
 | Impound                           | ✅    |           |       |               |
-| Jurassic Jackpot                  | ✅    |           |       |               |
+| Jurassic Jackpot                  | ✅    | ✅        |       |               |
 | Kebab King Diner                  | ✅    |           |       |               |
 | Laundromat                        | ✅    |           |       |               |
 | Leapfrog Café                     | ✅    |           |       |               |
@@ -35,14 +35,14 @@ Store Link: https://shop.tstudio3d.com/
 | LS International Airport          | ✅    |           |       |               |
 | LSIA Skatepark                    | ✅    |           |       |               |
 | LSI Square                        | ✅    |           |       |               |
-| Medical Center Vespucci           | ✅    |           |       |               |
+| Medical Center Vespucci           | ✅    | ✅        |       |               |
 | Mission Row Park                  | ❌    |           |       |               |
-| Opium Nights Hotel                | ✅    |           |       |               |
+| Opium Nights Hotel                | ✅    | ✅        |       |               |
 | Paleto Cardealer V2               | ✅    |           |       |               |
 | PDM - Vespucci                    | ✅    |           |       |               |
 | Pearls Resort                     | ❌    |           |       |               |
 | Pier 76 Car Club                  | ✅    |           |       |               |
-| Pillbox Medical Center            | ✅    |           |       |               |
+| Pillbox Medical Center            | ✅    | ✅        |       |               |
 | Playboy Mansion                   | ✅    |           |       |               |
 | PVP Arena                         | ✅    |           |       |               |
 | Red's Tunershop                   | ✅    |           |       |               |
@@ -52,7 +52,7 @@ Store Link: https://shop.tstudio3d.com/
 | South Davis Hood                  | ✅    |           |       |               |
 | Tattoo Studios                    | ☑️    |           |       |               |
 | Taxi Downtown Cab & Co.           | ✅    |           |       |               |
-| Tropical Heights                  | ✅    |           |       |               |
+| Tropical Heights                  | ✅    | ✅        |       |               |
 | Vespucci Gang Hood                | ✅    |           |       |               |
 | VHotel Estate                     | ✅    |           |       |               |
 | Vinewood Lake Villa               | ✅    |           |       |               |

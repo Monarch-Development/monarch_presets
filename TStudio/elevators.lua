@@ -229,6 +229,91 @@
         },
     },
 },
+['pillbox-medical-center'] = {
+    label = 'Pillbox Medical Center',
+    debug = false,
+    floors = {
+        [1] = {
+            title = 'Helipad Roof',
+            description = '',
+            zones = {
+                [1] = { coords = vec4(329.2000, -581.6900, 74.60, 250.00), size = vec3(2.4, 2.4, 2.6) },
+                [2] = { coords = vec4(330.1500, -579.1100, 74.60, 250.00), size = vec3(2.4, 2.4, 2.6) },
+            },
+            locked = false,
+            item = false,
+            jobs = false,
+        },
+        [2] = {
+            title = 'Station 3',
+            description = '',
+            zones = {
+                [1] = { coords = vec4(336.7500, -581.1000, 67.60, 340.00), size = vec3(2.4, 2.4, 2.6) },
+                [2] = { coords = vec4(334.2000, -580.2000, 67.60, 340.00), size = vec3(2.4, 2.4, 2.6) },
+            },
+            locked = false,
+            item = false,
+            jobs = false,
+        },
+        [3] = {
+            title = 'Station 2',
+            description = '',
+            zones = {
+                [1] = { coords = vec4(336.7500, -581.1000, 63.60, 340.00), size = vec3(2.4, 2.4, 2.6) },
+                [2] = { coords = vec4(334.2000, -580.2000, 63.60, 340.00), size = vec3(2.4, 2.4, 2.6) },
+            },
+            locked = false,
+            item = false,
+            jobs = false,
+        },
+        [4] = {
+            title = 'Station 1',
+            description = '',
+            zones = {
+                [1] = { coords = vec4(336.7500, -581.1000, 59.60, 340.00), size = vec3(2.4, 2.4, 2.6) },
+                [2] = { coords = vec4(334.2000, -580.2000, 59.60, 340.00), size = vec3(2.4, 2.4, 2.6) },
+            },
+            locked = false,
+            item = false,
+            jobs = false,
+        },
+        [5] = {
+            title = 'Lobby Front Entrance',
+            description = '',
+            zones = {
+                [1] = { coords = vec4(313.3000, -578.6500, 43.60, 70.00), size = vec3(2.4, 2.4, 2.6) },
+                [2] = { coords = vec4(312.3500, -581.2500, 43.60, 70.00), size = vec3(2.4, 2.4, 2.6) },
+                [3] = { coords = vec4(329.4500, -594.6000, 43.60, 340.0), size = vec3(2.4, 2.4, 2.6) },
+            },
+            locked = false,
+            item = false,
+            jobs = false,
+        },
+        [6] = {
+            title = 'Lobby Back Entrance',
+            description = '',
+            zones = {
+                [1] = { coords = vec4(347.6000, -594.4500, 29.15, 250.00), size = vec3(2.4, 2.4, 2.6) },
+                [2] = { coords = vec4(352.4500, -581.2000, 29.15, 250.00), size = vec3(2.4, 2.4, 2.6) },
+            },
+            locked = false,
+            item = false,
+            jobs = false,
+        },
+        [7] = {
+            title = 'Emergency Garage',
+            description = '',
+            zones = {
+                [1] = { coords = vec4(362.8000, -648.7500, 22.95, 70.00), size = vec3(2.4, 2.4, 2.6) },
+                [2] = { coords = vec4(359.6000, -657.6000, 22.95, 70.00), size = vec3(2.4, 2.4, 2.6) },
+                [3] = { coords = vec4(295.4000, -629.2300, 22.95, 250.0), size = vec3(2.4, 2.4, 2.6) },
+            },
+            locked = false,
+            item = false,
+            jobs = false,
+        }
+    },
+},
 ['tropical-heights'] = {
     label = 'Tropical Heights',
     debug = false,
