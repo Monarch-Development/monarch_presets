@@ -1,4 +1,5 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
+---@description TStudio Elevators Presets [https://shop.tstudio3d.com/]
 
 ['al-dente-restaurant-1'] = {
     label = 'Al Dente Restaurant',
