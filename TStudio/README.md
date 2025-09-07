@@ -1,4 +1,4 @@
-## PRESETS FOR TSTUDIO PRODUCTS
+## TSTUDIO PRESETS
 
 Store Link: https://shop.tstudio3d.com/
 
