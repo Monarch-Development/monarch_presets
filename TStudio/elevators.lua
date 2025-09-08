@@ -28,6 +28,7 @@
         },
     },
 },
+
 ['al-dente-restaurant-2'] = {
     label = 'Al Dente Restaurant',
     floors = {
@@ -77,6 +78,7 @@
         },
     }
 },
+
 ['jurassic-jackpot'] = {
     label = 'Jurassic Jackpot',
     floors = {
@@ -115,6 +117,7 @@
         },
     },
 },
+
 ['medical-center-vespucci'] = {
     label = 'Medical Center Vespucci',
     floors = {
@@ -146,6 +149,7 @@
         },
     },
 },
+
 ['opium-nights-hotel'] = {
     label = 'Opium Nights Hotel',
     floors = {
@@ -249,6 +253,7 @@
         },
     },
 },
+
 ['pillbox-medical-center'] = {
     label = 'Pillbox Medical Center',
     floors = {
@@ -340,6 +345,7 @@
         }
     },
 },
+
 ['tropical-heights'] = {
     label = 'Tropical Heights',
     floors = {

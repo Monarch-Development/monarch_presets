@@ -174,6 +174,7 @@
         },
     },
 },
+
 ['building-2'] = {
     label = 'Building 2',
     floors = {
@@ -275,6 +276,7 @@
         },
     },
 },
+
 ['rockford-police-department'] = {
     label = 'Rockford Police Department',
     floors = {
