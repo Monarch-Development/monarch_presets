@@ -2,16 +2,21 @@
 ---@description TStudio IPLs Presets [https://turbosaif.tebex.io/]
 
 ---@description IPL
-['legion-square-1'] = {'tstudio_legionsquare_ext_amphi_default'},
-['legion-square-2'] = {'tstudio_legionsquare_ext_amphi_band'},
-['legion-square-3'] = {'tstudio_legionsquare_ext_amphi_dj'},
-['legion-square-4'] = {'tstudio_legionsquare_ext_amphi_speaker'},
+['legion-square-1'] = { 'tstudio_legionsquare_ext_amphi_default' },
+
+['legion-square-2'] = { 'tstudio_legionsquare_ext_amphi_band' },
+
+['legion-square-3'] = { 'tstudio_legionsquare_ext_amphi_dj' },
+
+['legion-square-4'] = { 'tstudio_legionsquare_ext_amphi_speaker' },
+
 ['legion-square-5'] = {
     'tstudio_legionsquare_ext_amphi_default',
     'tstudio_legionsquare_ext_amphi_band',
     'tstudio_legionsquare_ext_amphi_dj',
     'tstudio_legionsquare_ext_amphi_speaker',
 },
+
 ['opium-nights-hotel-6'] = {
     'johanni_opium_penthouse_e06_milo_',
     'johanni_opium_hallway_e06_milo_',
@@ -28,6 +33,7 @@
     'johanni_opium_hotel_e06_r11_milo_',
     'johanni_opium_hotel_e06_r12_milo_',
 },
+
 ['opium-nights-hotel-5'] = {
     'johanni_opium_penthouse_e05_milo_',
     'johanni_opium_hallway_e05_milo_',
@@ -44,6 +50,7 @@
     'johanni_opium_hotel_e05_r11_milo_',
     'johanni_opium_hotel_e05_r12_milo_',
 },
+
 ['opium-nights-hotel-4'] = {
     'johanni_opium_penthouse_e04_milo_',
     'johanni_opium_hallway_e04_milo_',
@@ -60,6 +67,7 @@
     'johanni_opium_hotel_e04_r11_milo_',
     'johanni_opium_hotel_e04_r12_milo_',
 },
+
 ['opium-nights-hotel-3'] = {
     'johanni_opium_penthouse_e03_milo_',
     'johanni_opium_hallway_e03_milo_',
@@ -76,6 +84,7 @@
     'johanni_opium_hotel_e03_r11_milo_',
     'johanni_opium_hotel_e03_r12_milo_',
 },
+
 ['opium-nights-hotel-2'] = {
     'johanni_opium_penthouse_e02_milo_',
     'johanni_opium_hallway_e02_milo_',
@@ -92,6 +101,7 @@
     'johanni_opium_hotel_e02_r11_milo_',
     'johanni_opium_hotel_e02_r12_milo_',
 },
+
 ['opium-nights-hotel-1'] = {
     'johanni_opium_penthouse_e01_milo_',
     'johanni_opium_hallway_e01_milo_',
@@ -119,39 +129,38 @@
 }
 
 ---@description Zones
-['opium-nights-hotel-6'] = {
-    coords = vec4(-720.0649, -2263.3970, 75.60, 180.00),
-    size = vec3(110.0, 130.0, 4.0),
-    debug = false,
-    ipl = 'opium-nights-hotel-6',
-},
-['opium-nights-hotel-5'] = {
-    coords = vec4(-720.0649, -2263.3970, 66.70, 180.00),
-    size = vec3(110.0, 130.0, 4.0),
-    debug = false,
-    ipl = 'opium-nights-hotel-5',
-},
-['opium-nights-hotel-4'] = {
-    coords = vec4(-720.0649, -2263.3970, 58.00, 180.00),
-    size = vec3(110.0, 130.0, 4.0),
-    debug = false,
-    ipl = 'opium-nights-hotel-4',
-},
-['opium-nights-hotel-3'] = {
-    coords = vec4(-720.0649, -2263.3970, 49.00, 180.00),
-    size = vec3(110.0, 130.0, 4.0),
-    debug = false,
-    ipl = 'opium-nights-hotel-3',
-},
-['opium-nights-hotel-2'] = {
-    coords = vec4(-720.0649, -2263.3970, 40.20, 180.00),
-    size = vec3(110.0, 130.0, 4.0),
-    debug = false,
-    ipl = 'opium-nights-hotel-2',
-},
 ['opium-nights-hotel-1'] = {
     coords = vec4(-720.0649, -2263.3970, 31.20, 180.00),
     size = vec3(110.0, 130.0, 4.0),
     debug = false,
-    ipl = 'opium-nights-hotel-1',
+},
+
+['opium-nights-hotel-2'] = {
+    coords = vec4(-720.0649, -2263.3970, 40.20, 180.00),
+    size = vec3(110.0, 130.0, 4.0),
+    debug = false,
+},
+
+['opium-nights-hotel-3'] = {
+    coords = vec4(-720.0649, -2263.3970, 49.00, 180.00),
+    size = vec3(110.0, 130.0, 4.0),
+    debug = false,
+},
+
+['opium-nights-hotel-4'] = {
+    coords = vec4(-720.0649, -2263.3970, 58.00, 180.00),
+    size = vec3(110.0, 130.0, 4.0),
+    debug = false,
+},
+
+['opium-nights-hotel-5'] = {
+    coords = vec4(-720.0649, -2263.3970, 66.70, 180.00),
+    size = vec3(110.0, 130.0, 4.0),
+    debug = false,
+},
+
+['opium-nights-hotel-6'] = {
+    coords = vec4(-720.0649, -2263.3970, 75.60, 180.00),
+    size = vec3(110.0, 130.0, 4.0),
+    debug = false,
 },
