@@ -17,7 +17,9 @@
 ## Presets for the following scripts
 - [mnr_blips](https://github.com/Monarch-Development/mnr_blips)
 - [mnr_elevators](https://github.com/Monarch-Development/mnr_elevators)
+- [mnr_ipl](https://github.com/Monarch-Development/mnr_ipl)
+- [mnr_sitanywhere](https://github.com/Monarch-Development/mnr_sitanywhere)
 
 ## Links
 - [Discord](https://discord.gg/WKtk65yBC6)
-- [Docs](https://monarch-docs.pages.dev/docs/monarch-resources/presets)
+- [Docs](https://monarch-development.pages.dev/docs/monarch-resources/presets)
