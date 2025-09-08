@@ -1,8 +1,8 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
 ---@description MrHunter Blips Presets [https://mrhunter.tebex.io/]
 
-["247"] = {
-    label = "24/7 Store",
+['247'] = {
+    label = '24/7 Store',
     points = {
         vec3(24.85, -1356.09, 30.55),
         vec3(375.64, 316.49, 104.78),
@@ -14,14 +14,13 @@
         vec3(1970.57, 3732.06, 34.47),
         vec3(1727.49, 6403.59, 36.90),
     },
-    display = 2,
     sprite = 59,
     color = 2,
-    alpha = 255,
     scale = 0.8,
 },
-["binco"] = {
-    label = "Binco",
+
+['binco'] = {
+    label = 'Binco',
     points = {
         vec3(411.44, -809.23, 30.73),
         vec3(86.63, -1390.59, 30.14),
@@ -34,14 +33,13 @@
         vec3(1681.39, 4818.87, 42.96),
         vec3(-4.76, 6519.69, 32.68),
     },
-    display = 2,
     sprite = 73,
     color = 47,
-    alpha = 255,
     scale = 0.8,
 },
-["digital-den"] = {
-    label = "Digital Den",
+
+['digital-den'] = {
+    label = 'Digital Den',
     points = {
         vec3(397.44, -843.14, 30.87),
         vec3(-650.89, -849.84, 25.38),
@@ -51,9 +49,7 @@
         vec3(-1325.47, -391.43, 39.39),
         vec3(-49.82, -1033.61, 29.80),
     },
-    display = 2,
     sprite = 817,
     color = 27,
-    alpha = 255,
     scale = 0.8,
 },
