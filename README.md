@@ -2,7 +2,7 @@
 
 ## Supported Creators
 - [Prompt Mods](https://fivem.prompt-mods.com/)
-- [TStudio](https://turbosaif.tebex.io/)
+- [TStudio](https://shop.tstudio3d.com/)
 - [Ambitioneers](https://ambitioneers.tebex.io/)
 - [K4mbi Maps](https://k4mb1maps.com/)
 - [NTeam](https://nteamdev.tebex.io/)
