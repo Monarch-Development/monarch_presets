@@ -1,5 +1,66 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
----@description TStudio SitAnywhere Presets [https://turbosaif.tebex.io/]
+---@description TStudio SitAnywhere Presets [https://shop.tstudio3d.com/]
+
+--- Alamo Island [NETWORK COMPATIBLE]
+[`turbosaif_alamo_island_asset_ext_set05_armchair01`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.08, 270.0),
+	},
+},
+[`turbosaif_alamo_island_asset_ext_set05_sofa`] = {
+	maxSeats = 2,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.4, 0.1, 0.05, 0.0),
+		[2] = vec4(-0.4, 0.1, 0.05, 0.0),
+	},
+},
+[`turbosaif_alamo_island_asset_ext_set6_armchair01`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.2, 0.0, 0.1, 270.0),
+	},
+},
+[`turbosaif_alamo_island_asset_ext_set6_sofa`] = {
+	maxSeats = 2,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.4, 0.2, 0.1, 0.0),
+		[2] = vec4(-0.4, 0.2, 0.1, 0.0),
+	},
+},
+[`turbosaif_alamo_island_asset_int_armchair02`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.08, 0.0),
+	},
+},
+[`turbosaif_alamo_island_asset_int_edgy_stool`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.1, -0.1, 0.8, 305.0),
+	},
+},
+[`turbosaif_alamo_island_asset_int_edgy_stool02`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.2, 0.0, 0.2, 270.0),
+	},
+},
+[`turbosaif_alamo_island_asset_int_sofa`] = {
+	maxSeats = 2,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.3, 0.0, 0.08, 0.0),
+		[2] = vec4(-0.3, 0.0, 0.08, 0.0),
+	},
+},
 
 ---@description Al Dente's
 [`johanni_aldentes_asset_barstool`] = {
